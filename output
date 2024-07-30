@@ -1,0 +1,5 @@
+Caesar Cipher Program
+Do you want to (e)ncrypt or (d)ecrypt a message? e
+Enter your message: haihello
+Enter the shift value: 3
+Encrypted message: kdlkhoor
